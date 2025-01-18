@@ -27,7 +27,7 @@
 
 ## Install
 
-- [Google Play Store で公開](https://play.google.com/store/apps/details?id=tech.takumisoft.piliuppictwallpaper)
+- [Google Play Store で公開](https://play.google.com/store/apps/details?id=tech.takumisoft.pileuppictwallpaper)
 
 ## Privacy Policy
 
